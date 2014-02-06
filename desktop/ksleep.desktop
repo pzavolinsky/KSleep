@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=~/.kde/bin/ksleepd
+Icon=exec
+Name=KSleep
+StartupNotify=false
+Terminal=false
+Type=Application
+X-DCOP-ServiceType=none
+X-KDE-SubstituteUID=false

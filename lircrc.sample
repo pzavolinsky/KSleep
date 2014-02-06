@@ -1,0 +1,5 @@
+begin
+    prog   = irexec
+    button = EPG
+    config = ~/.ksleep/ksleep-next.sh
+end
